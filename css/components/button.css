@@ -1,0 +1,14 @@
+.btn{
+  background:linear-gradient(6deg, RGBA(92,184,202,0.7) 0%, RGBA(73,147,170,0.75) 33%,RGBA(54,110,138,0.8) 66%, RGBA(35,74,106,0.85) 100%);
+  padding:15px 20px;
+  border-radius: 4px;
+  color:white;
+  font-weight: bold;
+  font-family:"Roboto", sans-serif;
+}
+
+.btn:hover{
+  background: linear-gradient(6deg, RGBA(92,184,202,1) 0%, RGBA(73,147,170,1) 33%,RGBA(54,110,138,1) 66%, RGBA(35,74,106,1) 100%);
+  transition: color 0.25s ease;
+}
+
